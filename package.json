@@ -26,5 +26,5 @@
     "update": "updates --update ./",
     "watch": "tsc --watch"
   },
-  "version": "2019.11.26"
+  "version": "2019.11.26.1"
 }
